@@ -5,7 +5,7 @@ import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
 
-    String dd="nihao a AppCompatActivity";
+    String dd="9.8";
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
